@@ -47,4 +47,5 @@ function generaFrase() {
 }
 
 // Esempio di utilizzo
-console.log(generaFrase());
+const ale = generaFrase(), ale2 = generaFrase(), ale3 = generaFrase(), ale4 = generaFrase(), ale5 = generaFrase(), ale6 = generaFrase(), ale7 = generaFrase(), ale8 = generaFrase();
+jQuery("h1#console").text(ale + ale2 + ale3 + ale4 + ale5 + ale6 + ale7 + ale8)
